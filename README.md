@@ -29,3 +29,7 @@ Specify path of the video and GIF file:
 videoClip=VideoFileClip("input_file.mp4")
 videoClip.write_gif("output_file.gif")
 ```
+
+## Acknowledgements
+
+ - [freecodecamp.org](https://freecodecamp.org)
