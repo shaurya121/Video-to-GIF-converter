@@ -4,7 +4,7 @@
 A video can be easily converted to a GIF (graphics interchange format) file using 'moviepy' package.
 
 
-## Screenshots
+## Visuals
 
 ![App Screenshot](https://raw.githubusercontent.com/shaurya121/Video-to-GIF-converter/main/example.gif)
 
