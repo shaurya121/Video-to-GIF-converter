@@ -6,7 +6,7 @@ A video can be easily converted to a GIF (graphics interchange format) file usin
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/shaurya121/Video-to-GIF-converter/main/example.gif)
 
 
 ## Installation
